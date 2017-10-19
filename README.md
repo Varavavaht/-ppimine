@@ -1,0 +1,2 @@
+# -ppimine
+Õppimine
